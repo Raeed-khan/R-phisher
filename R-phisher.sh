@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##   R-phisher 	: 	Automated Phishing Tool
-##   Author 	  : 	Raeed khan (BBA Student University of Buner KPK ) 
+##   Author 	: 	Raeed khan (BBA Student University of Buner KPK ) 
 ##   Version  	: 	2.3.5
 ##   Github   	: 	https://github.com/Raeed-khan/R-phisher
 
