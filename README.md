@@ -1,4 +1,4 @@
-<h1 align="center">R-Phisher</h1>
+<h1 align="center">Raeed-Phisher</h1>
 
 <p align="center">
 <pre align="center">
