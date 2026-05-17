@@ -172,12 +172,9 @@ R-phisher requires following programs to run properly -
 
 ### Find Me on:
 
-### Thanks to all contributors:
- ██████╗  █████╗ ███████╗███████╗██████╗ 
- ██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗
- ██████╔╝███████║█████╗  █████╗  ██║  ██║
- ██╔══██╗██╔══██║██╔══╝  ██╔══╝  ██║  ██║
- ██║  ██║██║  ██║███████╗███████╗██████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ 
- ────────────────────────────────────────
- 🌟 Developer : Raeed Khan (BBA student university of buner )
+### Thanks to all contributors: 🌟 Developer : Raeed Khan (BBA student university of buner )
+____      _     _____ _____ ____  
+ |  _ \    / \   | ____| ____|  _ \ 
+ | |_) |  / _ \  |  _| |  _| | | | |
+ |  _ <  / ___ \ | |___| |___| |_| |
+ |_| \_\/_/   \_\|_____|_____|____/
